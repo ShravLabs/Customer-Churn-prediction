@@ -1,0 +1,12 @@
+# Requirements
+
+## Python Version
+- Python 3.10.x
+
+## Libraries
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- pickle
